@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import Icontask from "../../assets/img/Icontask.svg";
 import { useNavigate } from "react-router-dom";
-import Iconadd from '/src/assets/img/IconAddTask.svg';
+import Iconadd from '../../assets/img/IconAddTask.svg';
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
