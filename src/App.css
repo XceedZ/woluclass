@@ -1,0 +1,19 @@
+* {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+#carousel::-webkit-scrollbar {
+ display: none;
+}
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: #fff;
+  margin: 5px 0;
+}
+#Slider::-webkit-scrollbar {
+  display: none;
+}
